@@ -1,0 +1,32 @@
+{
+    "1": {
+        "adi": "EMINE DOGAN",
+        "telefon": "555-554-5555",
+        "adres": "Bir mah, bir sok, Malatya , 44000"
+    },
+    "27": {
+        "adi": "Naim Ucar",
+        "telefon": "545-345-6786",
+        "adres": "Baska bir sokak, Baska bir mahalle,AMSTERDAM,35000"
+    },
+    "22": {
+        "adi": "Burak Gunes",
+        "telefon": "555-234-5678",
+        "adres": "Gunes sok, Gunes mah. ,ANKARA,0600"
+    },
+    "3": {
+        "adi": "Ayse Demir",
+        "telefon": "555-345-6789",
+        "adres": "Bir mah, Bir sok, IZMIR,35000"
+    },
+    "34": {
+        "adi": "Ahmet Dogan",
+        "telefon": "555-456-7557",
+        "adres": "Elandstraat mah, Sokak sok, Amsterdam 32000"
+    },
+    "44": {
+        "adi": "Deniz Nehir",
+        "telefon": "555-554-5656",
+        "adres": "Deniz mah.,Nehir Sok, MALATYA,44000"
+    }
+}
