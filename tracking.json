@@ -1,0 +1,34 @@
+[
+    {
+        "member_id": "12",
+        "member_name": "EMINE DOGAN",
+        "book_barkod": "9786051981833",
+        "book_name": "Gece Yar\u00c4\u00b1s\u00c4\u00b1 K\u00c3\u00bct\u00c3\u00bcphanesi",
+        "lend_date": "2025-01-09",
+        "return_date": "2025-01-23"
+    },
+    {
+        "member_id": "27",
+        "member_name": "Naim Ucar",
+        "book_barkod": "9789750850417",
+        "book_name": "Kay\u00c4\u00b1p Tanr\u00c4\u00b1lar \u00c3\u0153lkesi",
+        "lend_date": "2025-01-09",
+        "return_date": "2025-01-23"
+    },
+    {
+        "member_id": "3",
+        "member_name": "Ayse Demir",
+        "book_barkod": "9786053607038",
+        "book_name": "\u00c4\u00b0nsan Neyle Ya\u00c5\u0178ar? - Hasan Ali Y\u00c3\u00bccel Klasikleri",
+        "lend_date": "2025-01-09",
+        "return_date": "2025-01-23"
+    },
+    {
+        "member_id": "44",
+        "member_name": "Deniz Nehir",
+        "book_barkod": "34655768",
+        "book_name": "okumak",
+        "lend_date": "2025-01-10",
+        "return_date": "2025-01-24"
+    }
+]
